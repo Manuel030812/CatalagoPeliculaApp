@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ca95b42-823b-4cfd-8ae4-ffcec6a46b29" name="Changes" comment="cracion de servicio pelicula">
+    <list default="true" id="0ca95b42-823b-4cfd-8ae4-ffcec6a46b29" name="Changes" comment="terminacion del programa pero guardando todo en memoria">
+      <change afterPath="$PROJECT_DIR$/src/main/java/servicio/ServicioPeliculasArchivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dominio/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dominio/Pelicula.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/presentacion/CatalogoPeliculasApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presentacion/CatalogoPeliculasApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +59,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711425118867</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="terminacion del programa pero guardando todo en memoria">
+      <option name="closed" value="true" />
+      <created>1711507563582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711507563582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cracion de servicio pelicula" />
-    <option name="LAST_COMMIT_MESSAGE" value="cracion de servicio pelicula" />
+    <MESSAGE value="terminacion del programa pero guardando todo en memoria" />
+    <option name="LAST_COMMIT_MESSAGE" value="terminacion del programa pero guardando todo en memoria" />
   </component>
 </project>
