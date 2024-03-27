@@ -31,7 +31,7 @@ public class CatalogoPeliculasApp {
                 2. listar pelicula
                 3. buscar pelicula
                 4. salir
-                elige una opcion""");
+                elige una opcion: """);
 
 
     }
